@@ -2247,6 +2247,12 @@ input, select, textarea {
 
 		/* Basic */
 
+		.image img {
+			display: block;
+			width: 65%;
+			margin: auto;
+		}
+
 			body {
 				padding-top: 44px;
 			}
