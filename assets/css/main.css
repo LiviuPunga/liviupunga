@@ -2229,6 +2229,11 @@ input, select, textarea {
 	@media screen and (max-width: 980px) {
 
 		/* Articles */
+		.image img {
+			display: block;
+			width: 65%;
+			margin: auto;
+		}
 
 			#top {
 				text-align: center;
